@@ -98,6 +98,7 @@ However you decide to work or whatever you make, there are lots of ways to contr
 - Crafting new content for the project and contributing it through pull request, issue, or link.
 - Sharing resources by filing an issue.
 - Sharing feedback by filing an issue.
+- GitHub vets, [fork the repo and submit pull requests](https://github.com/acabunoc/mozsprint-repo-template/blob/master/CONTRIBUTING.md#how-to-submit-changes).
 
 There is no wrong way to contribute, and project and challenge leads are here to answer your questions help you get your work into the repo. You should feel free and empowered to share your work before, during, and after the sprint on social media (like through blogs, Facebook, and Twitter), as well.
 

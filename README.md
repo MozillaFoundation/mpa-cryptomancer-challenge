@@ -56,7 +56,7 @@ These resources might help you get started with information security and RPGs.
 
 - [A History of Encryption](http://isbuzz.wpengine.netdna-cdn.com/wp-content/uploads/Untitled62.png)
 - [Mozilla's Encryption Campaign](https://advocacy.mozilla.org/en-US/encrypt/codemoji/1)
-- [DIY Online Security Guide for Every Woman](DIY ONLINE SECURITY GUIDE FOR EVERY WOMAN)
+- [DIY Online Security Guide for Every Woman](https://chayn.gitbooks.io/basic-diy-online-privacy/content/en/)
 - [Me And My Shadow](https://myshadow.org/)
 - [Virtual Privacy Lab](https://sjpl.org/privacy)
 - [Technical Safety Guide](https://iheartmob.org/resources/tech)

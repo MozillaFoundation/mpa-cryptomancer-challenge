@@ -1,0 +1,3 @@
+# Cryptomancer Challenge Vision
+
+Crypto experts, gamers, educators, and activists help one another create inclusive, safe, and empowering adventures about strong privacy and security habits using the role-playing game (RPG) Cryptomancer as a platform for gameplay and storytelling so that gamers from all backgrounds have the chance to strengthen their online safety habits through a collaborative, playful, and social learning experience.

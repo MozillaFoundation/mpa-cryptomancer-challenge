@@ -121,14 +121,11 @@ Here are some steps you can take to get started on GitHub if you'd like to try i
 
 4. Finally, click on the green "New Issue" button to the left of the page. You can then title your issue and add content. Specificity helps.
 
-Before you submit your issue, pick a label or two for it. You can choose one from the "Labels" dropdown menu to the right of your issue. Add the light-green #mozsprint label to each issue to file and then pick the label that goes with the challenge you're working on during the sprint. This helps people find the people and issues associated with the challenge to which they're contributing. 
+Before you submit your issue, label it. You can choose one from the "Labels" dropdown menu to the right of your issue. Add the light-green #mozsprint label to each issue to file and then pick the label that goes with the challenge you're working on during the sprint. This helps people find the people and issues associated with the challenge to which they're contributing. 
 
 We have challenge labels for:
 
-- cryptomancer-challenge (gold).
-- game-jam-challenge (purple).
-- iot-escape-room-challenge (green).
-- offline-game-challenge (orange)
+- mpa-cryptomancer-challenge (gold).
 
 We also have labels for site-related news, as well as for finding help and answering questions:
 

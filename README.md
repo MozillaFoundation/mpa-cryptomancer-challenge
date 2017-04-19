@@ -1,6 +1,6 @@
 # Cryptomancer Challenge
 
-**Challenge Leads:** Chad Sansing, Chad Walker, Antero Garcia, [still recruiting....]
+**Challenge Leads:** Antero Garcia, Tiphaine Romand-Latapie, Chad Sansing, and Chad Walker
 
 ## Description
 

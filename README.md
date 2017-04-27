@@ -1,5 +1,7 @@
 # Cryptomancer Challenge
 
+![A line-drawing icon showing a wifi signal coming from a cluster of crystals.](images/cryptomancer-2.png)
+
 **Challenge Leads:** Antero Garcia, Tiphaine Romand-Latapie, Chad Sansing, and Chad Walker
 
 ## Description
